@@ -3,10 +3,9 @@ An open source collaborative book on management. Focused and written primarily f
 
 The goal is to provide a very easy to use, easy to remember and easy to implement methodology.  To demistify psychology, management and leadership. To do to it what engineers always do, understand ambiguity and complexity. Then structure it, laydown the rules, algorithmize it and issue some best practises.
 
-# Why
-What drives apart Bill Gates, Elon Musk, Larry Page, Jack Welch ? Why do they stand apart from from regular run of the mill managers, most of whom are driving their corporations in to the ground. Yes, they are, the average age of an S&P 500 corporation is now merely 16 years. While the average PE is 21.4 (chuckle).  Think about it, on an average, if a corporation makes 10 bucks a year, investors are paying 214 dollars today to get ownership of it, while it's statistically proven to go belly up in 16 years. And the stock market still keeps rising as if there is no tomorrow - Thank you Quantitative Easing and the still-alive Yellen Put.
+What drives apart Bill Gates, Elon Musk, Jeff Bezos, Larry Page, Jack Welch ? Why do they stand apart from from regular run of the mill managers, most of whom are driving their corporations in to the ground. Yes, they are, the average age of an S&P 500 corporation is now merely 16 years. While the average PE is 21.4 (chuckle).  Think about it, on an average, if a corporation makes 10 bucks a year, investors are paying 214 dollars today to get ownership of it, while it's statistically proven to go belly up in 16 years. Given it won't make much in the last 5-6 years of it's life, thereby returning a sum of $100 back over the next 10 years to the investors on a $214 investment. This is the average scenario and not all companies / stocks will behave in this manner. The stock market keeps rising - thank you Quantitative Easing and the still-alive Yellen Put. This is a classic example of the "bigger fool theory" where you hope for another bigger fool to take it off your hands at a better price.
 
-# I believe
+# Why
 I believe creative, smart, ambitious engineers make the best managers and the best leaders. They think logicallly, they think long term, they think in a non-zero sum manner, they think in terms of solving problems for good, not creating more later.
 
 Bill Gates, Elon Musk, Larry Page, Jack Welch are great examples of this.
@@ -36,6 +35,8 @@ Apple is another such case. Point me to a revolutionary product they have launch
 # Contribute
 If we let impassionate, non-creative, non-growth minded individuals run this world, then what horrible place are we creating for our children.
 
-If you are a developer, a scientist, an engineer or just have a strong belief in yourself that you will be a great, honest, growth focused leader of people, then **please contribute your stories, your thinking, your concepts.**
+If you are a developer, a scientist, an engineer, an author, a manager with a strong belief in yourself as a great, honest, growth focused leader of people, then **please contribute your stories, your thinking, your concepts.**
+
+Here's a rough outline I worked out for this content [outline](https://github.com/alphaJohnny/thinking-in-management/blob/master/manuscript/_outline.md) but I am all open to suggestions. I have strong opinions, loosely held.
 
 Please request to be a contributor, or reach out to me at alphajohnny@icloud.com.
