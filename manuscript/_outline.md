@@ -41,10 +41,9 @@ Strong manager, at this stage you are building you team, your advisors
 
 # From two hundred to two thousand
 Manager of Managers
-## Fat, trim the fat
-- This is a very vital time to do this. If there are too many parasites in your corporation, it will stop growing or the growth will be painful.
-- Google was able to do this by hiring uncorrupted people right from universities
-- 
+## Finance, numbers, emperical measurements
+- You are the main bread earner, you need to get money rolling in and boat loads of it
+- You need to establish numerical measures of all performance in your organization
 
 ## Growth, growth, growth
 - Now you start attracting individuals who are risk-averse, they are usually the early and late majority. They take pride in working for a well known brand.
@@ -53,6 +52,8 @@ Manager of Managers
 
 ## Hard decisions
 - You are the Judge, Jury and Executioner
+- This is a very vital time to do this. If there are too many parasites in your corporation, it will stop growing or the growth will be painful.
+- Google was able to do this by hiring uncorrupted people right from universities
 
 # Two thousand and beyond
 Leader
