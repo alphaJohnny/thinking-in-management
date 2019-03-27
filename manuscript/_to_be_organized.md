@@ -30,7 +30,11 @@ A year preceeding my depression, the 1.5 years
 
 # Back to normal
 
-But having the same Grit that defines any great programmer and every great scientist, I was no stranger to failure. My code like almost everyone else's didn't work, didn't work, didn't work - till it eventually did work. This has happneed to me millions of times.
+But having the same Grit that defines any great programmer and every great scientist, I was no stranger to failure. My code like almost everyone else's didn't work, didn't work, didn't work - till it eventually did work. This has happneed to me millions of times. In fact this was an everyday thing for me at work. Then why was I getting so caught into it? Why not logically work through it?
+
+>the primary reason for frustration is repeated failure without an understanding of why it's happening and how to fix it.
+
+Well, I didn't understand it back then. I was too depressed to let my mind work. I had overburdened it with useless, counterproductive emotions and it had come to a grinding halt. Later, as I recovered I realized that the primary reason for frustration is repeated failure without an understanding of why it's happening and how to fix it.
 
 # Blockchain, transparency, open governance
 

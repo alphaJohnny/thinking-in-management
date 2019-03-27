@@ -1,5 +1,0 @@
-# I believe
- - There are the major roles that people play
-Here is an image with a caption:
-
-![Marmalade and Tangerine](images/marm-and-tangie.jpg)
