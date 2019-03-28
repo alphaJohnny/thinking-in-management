@@ -1,11 +1,11 @@
 # Stage 1. From zero to one
 Strong individual performer
 
-## 1.1 Appreciate
+## 1.1 Attitude
 
 ### 1.1.1 Always appreciate what you have, what someone brings to the table. People are hungry for appreciation
 
-### 1.1.2 Appreciate your customers
+### 1.1.2 Keep an upbeat Attitude
 
 ### 1.1.3 Appreciate the feedback, even if critical
 
@@ -25,6 +25,8 @@ Develop the skill necessary to be the Leader everyone looks up to
 ### 1.2.6 Basics of project management
 
 ### 1.2.7 Basics of social media
+
+### 1.2.8 Basics of personal productivity
 
 ## 1.3 Charm
 Charm is never wasted and always underrated

@@ -1,5 +1,11 @@
 # Thinking in management
-An open source collaborative book on management. Focused and written primarily for startups in the 50 people onwards growth stage, but should be equally valid for large corporations.
+An open source collaborative book on management. Focused and written primarily for startups and founders in all 4 stages of management.
+1. Strong Individual performer
+2. Manager
+3. Manager of managers
+4. Visionary leader who's organization is empowered to run without him/her.
+
+Lessons in this book are catered towards startups in the 50 people onwards growth stage, but should be equally valid for large corporations.
 
 The goal is to provide a very easy to use, easy to remember and easy to implement methodology.  To demystify psychology, management and leadership. To do to it what engineers always do, understand ambiguity and complexity. Then structure it, lay-down the rules, algorithm'ize it and issue some best practices.
 
