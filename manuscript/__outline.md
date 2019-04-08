@@ -9,52 +9,65 @@ Strong individual performer
 
 ### 1.1.3 Appreciate the feedback, even if critical
 
+### 1.1.4 It's going to be never ending, it's your life's work, get work-life balance for long term productivity
+How Google guys would disappear an entire week for burning man
+
+### 1.1.5 Laugh a lot
+
 ## 1.2 Be Complete
-Develop the skill necessary to be the Leader everyone looks up to
+Attain some broad knowledge, Develop the skill necessary to be the Leader everyone looks up to
 
-### 1.2.1 Here's basics of Money and Finance
+### 1.2.1 Money and Finance 101
 
-### 1.2.2 Here's basics of startup funding
+### 1.2.2 Startup funding 101
 
-### 1.2.3 Here's basics of psychology
+### 1.2.3 Psychology 101
 
-### 1.2.4 Here's basics of business systems technology
+### 1.2.4 Business systems 101
+CRM, eCommerce, Website, Accounting
 
-### 1.2.5 Basics of product management
+### 1.2.5 Product management 101
 
-### 1.2.6 Basics of project management
+### 1.2.6 Project management 101
 
-### 1.2.7 Basics of social media
+### 1.2.7 Social media 101
 
-### 1.2.8 Basics of personal productivity
+### 1.2.8 Personal productivity 101
+Paul Graham - Makers schedule vs Manager's schedule
+
+### 1.2.9 Hiring 101
+People will always question - should I work for him ?
 
 ## 1.3 Charm
 Charm is never wasted and always underrated
 
-### 1.3.1 Build your charm
+### 1.3.1 Build your charm, but be a tough as nails closer
 
-### 1.3.2 Become a passionate speaker
+### 1.3.2 Become a passionate speaker, at-least in small groups
 
-### 1.3.3 share beliefs about the future you are creating to get people around you
+### 1.3.3 share beliefs about the future you are creating
 
-### 1.3.4 Develop an ability to PULL people into the future you are creating
+### 1.3.4 Develop an ability to PULL people into the future you are creating, don't PUSH
+What Elon Musk does vs what Steve Jobs did.  Pulling allows self selection.
 
 # Stage 2. From two to two hundred
-Strong manager, at this stage you are building you team, your advisors. You will need to be watchful about these during this time.
+Strong manager, at this stage you are building you team, your advisors. You will need to be watchful about these key things during this time.
 
 ## 2.1 Drive or Drag
+You have to learn to keep people emotionally committed, build trust, keep them challenged, focused and create a energy flow feedback loop to keep multiplying everyone's energy and keep them in High Energy states - hungry to solve problems.
 
-### 2.1.1 You are able to create a sense of urgency in them
+### 2.1.1 You are able to create a sense of urgency in them, usually can be done by keeping them emotionaly committed
 
-### 2.1.2 Demonstrated drive for what you are doing? your beliefs
+### 2.1.2 Demonstrated drive for what you are doing? your beliefs. Are they emotionally committed
 
 ### 2.1.3 Do you notice a daily drive or drag, are they waiting for permission ? or selling you solutions
 
-### 2.1.4 You need to develop a strong drive in yourself - when you get to about 50 people, life feels like a drag
+### 2.1.4 Are you able to challenge people, push them beyond the limits they thought they had
 
 ### 2.1.5 Are people around you able to multiply your energy or cause drag on it
 
-## 2.2 Empathy, Emotional bonding
+## 2.2 Empathy, Emotional bonding, Trust
+How well you bond together as a team and how well you trust each other will be the key differentiator in your success
 
 ### 2.2.1 Allow people to fail
 
