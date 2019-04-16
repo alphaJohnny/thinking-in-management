@@ -12,43 +12,43 @@ Strong individual performer
 ### 1.1.4 It's going to be never ending, it's your life's work, get work-life balance for long term productivity
 How Google guys would disappear an entire week for burning man
 
-### 1.1.5 Laugh a lot
+### 1.1.5 Laugh a lot, you are on the winning side. You win even if you fail.
 
 ## 1.2 Be Complete
 Attain some broad knowledge, Develop the skill necessary to be the Leader everyone looks up to
 
 ### 1.2.1 Money and Finance 101
 
-### 1.2.2 Startup funding 101
+### 1.2.2 Marketing 101
 
 ### 1.2.3 Psychology 101
 
 ### 1.2.4 Business systems 101
 CRM, eCommerce, Website, Accounting
 
-### 1.2.5 Product management 101
+### 1.2.5 Product and Project management 101
 
-### 1.2.6 Project management 101
+### 1.2.6  101
 
-### 1.2.7 Social media 101
+### 1.2.7 Sales 101
 
-### 1.2.8 Personal productivity 101
+### 1.2.8 The most important, Personal productivity 101
 Paul Graham - Makers schedule vs Manager's schedule
 
 ### 1.2.9 Hiring 101
 People will always question - should I work for him ?
 
-## 1.3 Charm
-Charm is never wasted and always underrated
+## 1.3 Corner of the world, find your chasm, find that crack that you fill in. Without you this world will still have that crack.
+Find that one corner of the world you are absolutely great at. That one thing that not more than a handful of people in the world can do better than you. Something that you truly can be a world renowned guru in.
 
-### 1.3.1 Build your charm, but be a tough as nails closer
+### 1.3.1 Build your expertise
 
 ### 1.3.2 Become a passionate speaker, at-least in small groups
 
-### 1.3.3 share beliefs about the future you are creating
+### 1.3.3 Share beliefs about the future you are creating
 
 ### 1.3.4 Develop an ability to PULL people into the future you are creating, don't PUSH
-What Elon Musk does vs what Steve Jobs did.  Pulling allows self selection.
+What Elon Musk does vs what Steve Jobs did.  Pulling allows self selection.  Elon has this special ability to pull people into the future with him.
 
 # Stage 2. From two to two hundred
 Strong manager, at this stage you are building you team, your advisors. You will need to be watchful about these key things during this time.
@@ -56,9 +56,11 @@ Strong manager, at this stage you are building you team, your advisors. You will
 ## 2.1 Drive or Drag
 You have to learn to keep people emotionally committed, build trust, keep them challenged, focused and create a energy flow feedback loop to keep multiplying everyone's energy and keep them in High Energy states - hungry to solve problems.
 
-### 2.1.1 You are able to create a sense of urgency in them, usually can be done by keeping them emotionaly committed
+### 2.1.1 Demonstrated drive for what you are doing, Your beliefs, your vision of the future.
+Are they emotionally committed
 
-### 2.1.2 Demonstrated drive for what you are doing? your beliefs. Are they emotionally committed
+### 2.1.2 You are able to create a sense of urgency in them?
+Do they see how what they were doing passively can be done together at a much fervent pace.
 
 ### 2.1.3 Do you notice a daily drive or drag, are they waiting for permission ? or selling you solutions
 
